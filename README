@@ -7,10 +7,10 @@ Requirements
 ------------
 In order to build st you need the Xlib header files.
 On Debian 11, you will also need:
-libharfbuzz-dev
-libfont-config-dev
-libxft-dev
-Fira-Code font
+- libharfbuzz-dev
+- libfont-config-dev
+- libxft-dev
+- Fira-Code font
 
 
 Installation
